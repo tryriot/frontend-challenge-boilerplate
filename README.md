@@ -30,6 +30,7 @@ Louis, CTO @ Riot
 - [ ] The trash icon is not working
 - [ ] When pressing enter in input, the page reloads
 - [ ] Adding a second item renames the first one
+- [ ] I should not be able to insert an empty todo
 
 ### New features to implement:
 
